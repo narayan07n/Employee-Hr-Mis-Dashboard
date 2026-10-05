@@ -88,6 +88,6 @@ This dashboard can help HR and management with:
 The main objective of this project is to transform raw employee data into an interactive and easy-to-understand HR/MIS dashboard for management reporting.
 
 ## Author
-Narayan Kumar
+**Narayan Kumar**
 
-Created as a Data Analytics / MIS portfolio project using Microsoft Excel.
+**Created as a Data Analytics / MIS portfolio project using Microsoft Excel.**
