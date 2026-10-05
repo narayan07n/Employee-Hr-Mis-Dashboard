@@ -1,4 +1,5 @@
 ##Employee HR/MIS Dashboard
+![HR MIS Dashboard](./Screenshot%202026-10-05%20020621.png)
 ## Project Overview
 This project is an interactive Employee HR/MIS Dashboard developed using Microsoft Excel.
 The dashboard is designed to help HR teams and management analyze employee workforce data, salary trends, performance, experience, departments, and city-wise employee distribution.
